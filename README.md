@@ -2,6 +2,10 @@
 
 A lightweight command-line task tracker written in Go. Tasks are persisted locally in a JSON file.
 
+## Project URL
+
+https://github.com/Hla-aung/Simple-Task-Tracker-CLI
+
 ## Features
 
 - Add tasks with an optional description
